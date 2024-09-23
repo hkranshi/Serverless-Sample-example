@@ -1,4 +1,4 @@
-# Serverless-Sample-example
+# Implementing C and Python grading functionality in Serverless Architecture
 Serverless Code Execution Project
 Overview
 This project showcases a serverless architecture using Kubernetes with OpenFaaS and Docker Desktop. It deploys two functions that handle code execution in different languages:
